@@ -4,3 +4,4 @@ This is an update
 =======
 this file is not empty
 >>>>>>> update_script
+This is an update
